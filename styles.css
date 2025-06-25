@@ -1,4 +1,9 @@
-#Pizza (
-    margin-left: 20px
-    margin-top: 20px
-)
+#Pizza {
+    width: 100px; 
+    height: auto;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+body {
+  background-color: black;
+}
